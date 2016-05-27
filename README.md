@@ -1,3 +1,3 @@
 # XSLTs
 
-XSLTs associated with cleaning and splicing MODS and other metadata files for Islandora.
+XSLTs associated with cleaning, transforming, and splicing up MODS, MADS, and other metadata files for Islandora ingest.
