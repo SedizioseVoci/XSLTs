@@ -5,6 +5,7 @@
 	xmlns:srw_dc="info:srw/schema/1/dc-schema"
 	xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<!-- Locally edited version of a Library of Congress XSLT for converting MODS records to DC OAI-->
 
 <!--
 This stylesheet transforms MODS version 3.2 records and collections of records to simple Dublin Core (DC) records,
